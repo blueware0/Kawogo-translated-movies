@@ -13,9 +13,11 @@ Kawogo allows you to view your favorite movies and tv shows.</div>
 ### Screenshots
 
 <div align="center">
-<img src="img/screenshot-1.png" width="250">
-<img src="img/screenshot-2.png" width="250">
-<img src="img/screenshot-3.png" width="250">
+<img src="pic1.png" width="250">
+<img src="pic3.png" width="250">
+<img src="pic4.png" width="250">
+<img src="pic5.png" width="250">
+
 </div>
 
 ## Features
@@ -29,4 +31,5 @@ Kawogo allows you to view your favorite movies and tv shows.</div>
 * Search Movies of your choice
 * Download any movie free of charge
 
-## License
+## Developer
+@allanwise0
