@@ -6,9 +6,6 @@ Kawogo allows you to view your favorite movies and tv shows.</div>
 <p>
 <div align="center">
 
-![License](https://img.shields.io/github/license/icabetong/openauth)
-![Issues](https://img.shields.io/github/issues/icabetong/openauth)
-![Tests](https://github.com/icabetong/openauth/actions/workflows/tests.yml/badge.svg)
 
 </div>
 </p>
@@ -16,13 +13,20 @@ Kawogo allows you to view your favorite movies and tv shows.</div>
 ### Screenshots
 
 <div align="center">
-<img src="art/screenshot-1.png" width="250">
-<img src="art/screenshot-2.png" width="250">
-<img src="art/screenshot-3.png" width="250">
+<img src="img/screenshot-1.png" width="250">
+<img src="img/screenshot-2.png" width="250">
+<img src="img/screenshot-3.png" width="250">
 </div>
 
 ## Features
 * Fast and Beautiful UI
+* Watch movies for free
+* Stream movies
+* Watch series
+* Watch your favorites
+* Kawogo offers movies, series and shows in luganda
+* Float over screen video player
+* Search Movies of your choice
+* Download any movie free of charge
 
 ## License
-This project is licensed under the GPL-3.0 - see the license file for more details.
