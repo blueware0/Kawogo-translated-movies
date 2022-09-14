@@ -1,5 +1,7 @@
 <h1 align="center">Kawogo translated movies</h1>
-<div align="center">A beautiful, secure and simple authenticator app that supports multiple protocols and services. Free and open source. Written in Flutter and Dart.</div>
+<div align="center">kawogo movies, the best app for movies, series, and shows.
+Kawogo offers the largest cataloges of movies, series and shows (in luganda) on the internet.
+Kawogo allows you to view your favorite movies and tv shows.</div>
 
 <p>
 <div align="center">
@@ -21,14 +23,6 @@
 
 ## Features
 * Fast and Beautiful UI
-* Cross Platform (Android, iOS, Windows, macOS and Linux)
-* Encrypted Data Storage
-* App Lock
-* TOTP, HOTP and Steam Support
-* QR scanning and manual input
-* Data Export (Plain Text or Encrypted)
-* Data Import
-* Automated Backups (Android Only)
 
 ## License
 This project is licensed under the GPL-3.0 - see the license file for more details.
