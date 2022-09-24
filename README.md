@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" width="250" height="250" >
+</div>
+
 <h1 align="center">Kawogo translated movies</h1>
 <div align="center">kawogo movies, the best app for movies, series, and shows.
 Kawogo offers the largest cataloges of movies, series and shows (in luganda) on the internet.
