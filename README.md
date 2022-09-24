@@ -1,5 +1,5 @@
 <div align="center">
-<img src="logo.png" width="250" height="250" >
+<img src="logo.png" width="120" height="108" >
 </div>
 
 <h1 align="center">Kawogo translated movies</h1>
