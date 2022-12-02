@@ -34,6 +34,7 @@ Kawogo allows you to view your favorite movies and tv shows.</div>
 * Float over screen video player
 * Search Movies of your choice
 * Download any movie free of charge
+## Credits
 
 ## Developer
 @allanwise0
