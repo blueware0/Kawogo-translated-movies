@@ -36,5 +36,8 @@ Kawogo allows you to view your favorite movies and tv shows.</div>
 * Download any movie free of charge
 ## Credits
 
+<a herf="#"> Material 3 </a>
+<a herf="#"> Picasso </a>
+
 ## Developer
 @allanwise0
