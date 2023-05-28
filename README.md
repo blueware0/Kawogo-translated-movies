@@ -41,8 +41,11 @@ Kawogo allows you to view your favorite movies and tv shows.</div>
 ## Credits
 
 <a herf="#"> Material 3 </a>
+
 <a herf="#"> Picasso </a>
+
 <a herf="#"> Google inapp update</a>
+
 
 <a herf="#"> Imdb API</a>
 
