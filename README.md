@@ -1,5 +1,5 @@
 <div align="center">
-<img src="20230516_002914.png" width="120" height="108" >
+<img src="20230516_002914.png" width= height="108" >
 </div>
 
 <h1 align="center">Kawogo translated movies</h1>
