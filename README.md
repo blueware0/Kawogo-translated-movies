@@ -17,10 +17,10 @@ Kawogo allows you to view your favorite movies and tv shows.</div>
 ### Screenshots
 
 <div align="center">
-<img src="pic1.png" width="250">
-<img src="pic3.png" width="250">
-<img src="pic4.png" width="250">
-<img src="pic5.png" width="250">
+<img src="android-screenshot-1" width="250">
+<img src="android-screenshot-2" width="250">
+<img src="android-screenshot-3" width="250">
+
 
 </div>
 
